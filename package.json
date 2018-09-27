@@ -1,0 +1,16 @@
+{
+  "name": "clipboard-lite",
+  "version": "1.0.0",
+  "description": "Easily copy text to the clipboard",
+  "browser": "index.js",
+  "author": {
+    "name": "Ebben Feagan",
+    "email": "ebben.feagan@gmail.com",
+    "url": "https://thebrainernet.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mudhairless/clipboard-lite.git"
+  }
+}
