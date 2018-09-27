@@ -16,7 +16,9 @@ CopyToClipboard('Hello, World!');
 
 | Chrome | Edge | Firefox | Internet Explorer | Opera | Safari |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 42+ ✔ | 12+ ✔ | 41+ ✔ | 9+ ✔ | 29+ ✔ | 10+ ✔ |
+| 42+ ✔ | 12+ ✔ | 41+ ✔ | 9+ ✔ !| 29+ ✔ | 10+ ✔ |
+
+(!) Internet Explorer versions below 11 will require a polyfill for ES6 Promises.
 
 ## API
 
